@@ -116,8 +116,9 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ```
 <H3>OUTPUT:</H3>
-![NN_5 1](https://github.com/user-attachments/assets/f72f7ab5-7c26-442c-89b8-a4a32eee1198)
-![NN_5 2](https://github.com/user-attachments/assets/0b603416-4996-4a2c-8ef7-83d5141db526)
+
+![NN_5 1](https://github.com/user-attachments/assets/87dfbc40-93fb-4180-86a8-bb71f3b979a6)
+![NN_5 2](https://github.com/user-attachments/assets/b943ee0b-5c2f-4691-b236-262c3aeac37a)
 
 
 
